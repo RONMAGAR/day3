@@ -10,7 +10,7 @@ public class finalDemo {
     }
 
     final void display(){
-        System.out.println("Display in finalDemo");
+        System.out.println("Display in finalDemo!!!");
     }
 }
 
@@ -20,5 +20,5 @@ class childfinalDemo extends finalDemo{
 //        cannot be override as it is declared  final
 //    }
 
-    //final class cannot be inerited
+    //final class cannot be inerited!
 }
